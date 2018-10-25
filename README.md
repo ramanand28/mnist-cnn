@@ -1,2 +1,3 @@
 # mnist-cnn
-My first deep learning project !!!
+Keras Implementation of Hand-written digit recognition (MNIST).
+Trained on Nvidia 940MX
